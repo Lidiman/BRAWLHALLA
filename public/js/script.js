@@ -1,18 +1,18 @@
 const answers = [
-    "Are you sure?",
-    "Are you really sure??",
-    "Are you really realy sure???",
-    "Think again?",
-    "Don't believe in second chances?",
-    "Why are you being so cold?",
-    "Maybe we can talk about it?",
-    "I am not going to ask again!",
-    "Ok now this is hurting my feelings!",
-    "You are now just being mean!",
-    "Why are you doing this to me?",
-    "Please give me a chance!",
-    "I am begging you to stop!",
-    "Ok, Lets just start over.."
+    "Aku sayang",
+    "Kamu juga sayang",
+    "Tapi sayaang",
+    "kita berjauhan",
+    "tahan tahan ku sabar menahan",
+    "hingga nanti bertemu dirimu",
+    "Senangnya senangnya",
+    "Bisa dekat dengan kamu sungguh senangnya",
+    "Walau aku tahu kau tak akan lama",
+    "sebentar saja ku merasa bahagia",
+    "semalam ku tahan ku tahan semalam",
+    "Lama lama rindu ku semakin tak tertahan",
+    "Tapi sayang cinta ku cuma semalam",
+    "Kini kau pergi menghilang"
 ]
 
 const no_button = document.getElementById('no-button');
